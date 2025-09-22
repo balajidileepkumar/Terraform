@@ -3,6 +3,16 @@
 ## Installation and Configuration
 sudo apt update && apt install -y ansible
 
+### Info - Configuration management toosl 
+<pre>
+   - are helpful in automating system administrative tasks
+  - ie if you have machine with some OS preinstallaed, we can install/upgrade softwares on those servers
+  - the servers managed by configuration management tools are generally referred as Nodes
+  -the Nodes can be 
+   - an unix/linux/mac server
+  -an AWS ec2 instance or an Azure m
+</pre>
+
 ## Provisioner Overview
 <pre>
 - is a Infrastructure as a code tool (Iaac)
