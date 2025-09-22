@@ -1,5 +1,8 @@
 # Day 1
 
+## Installation and Configuration
+sudo apt update && apt install -y ansible
+
 ## Provisioner Overview
 <pre>
 - is a Infrastructure as a code tool (Iaac)
